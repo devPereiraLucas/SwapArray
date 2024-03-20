@@ -1,4 +1,4 @@
-﻿Este é um simples algoritmo de swap em array em c#.
+﻿# Este é um simples algoritmo de swap em array em c#.
 
 O projeto esta rodando em .NET Core 8.0
 
@@ -19,3 +19,7 @@ O algoritmo funciona da seguinte forma:
 7. A variavel temporaria recebe o valor do initialPointer e o initialPointer recebe o valor do finalPointer. Em seguida o finalPointer recebe o valor da variavel temporaria.				
 8. O finalPointer é decrementado e o initialPointer é incrementado.	
 9. Ao inicio de cada execução do loop, é verificado se o finalPointer é menor que o initialPointer. Se sim, o loop é encerrado.
+
+## Ilustração do algoritmo:
+
+![Algoritmo](https://github.com/devPereiraLucas/SwapArray/blob/b8ba155c321ad4c0d77cb68a7b4177f8e9e07d14/StringToArray.png)
