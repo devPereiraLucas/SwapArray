@@ -13,7 +13,7 @@ O algoritmo funciona da seguinte forma:
 1. Recebe uma string como parametro.
 2. Converte a string em um array de char.													
 3. Chama a função SwapArray passando o array de char como parametro.
-4. A funcão criar um pointeiro (finalPointer) que aponta para o final do array.
+4. A funcão cria um pointeiro (finalPointer) que aponta para o final do array.
 5. Cria um char temporario para armazenar o valor de um ponteiro.
 6. Cria um loop com uma variavel de controle (initialPointer) que irá rodar até que o ponteiro finalPointer seja menor que o ponteiro inicial.	
 7. A variavel temporaria recebe o valor do initialPointer e o initialPointer recebe o valor do finalPointer. Em seguida o finalPointer recebe o valor da variavel temporaria.				
